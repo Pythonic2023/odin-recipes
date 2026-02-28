@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project I'm doing for the odin-project. It consists of a home page, and three other pages with each one having their own recipe, which includes the ingredients and steps to make each one. 
