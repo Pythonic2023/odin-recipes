@@ -1,0 +1,21 @@
+.web-title {
+    background-color: rgb(140, 127, 255);
+    text-align: center;
+}
+
+.recipe-list {
+    padding: 10px;
+    width: fit-content;
+    background-color: rgb(140   127, 255);
+    list-style: none;
+
+}
+
+.recipe-link {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    background-color: aliceblue;
+}
