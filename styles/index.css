@@ -1,17 +1,27 @@
 .web-title {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(140, 127, 255);
     text-align: center;
 }
 
 .recipe-list {
-    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15%;
+    padding: 30px;
     width: fit-content;
     background-color: rgb(140   127, 255);
     list-style: none;
 
 }
 
+.recipe-list li {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px;
+}
+
 .recipe-link {
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     color: black;
 }
